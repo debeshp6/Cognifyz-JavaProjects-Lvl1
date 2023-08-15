@@ -11,4 +11,4 @@ Imagine having a program that can tell you whether a word or phrase is a palindr
 It's pretty handy for calculating and showing the average grade of a student. It prompts you to enter how many grades you want to calculate the average for. Once you've entered that, you can input each of the grades. The program then does its magic and calculates the average for you.
 
 # Task 4 - Random Password Generator 
-A cool program that creates random passwords. You tell me the length and what to include (Numbers, Lowercase/Uppercase Letters, Special Characters), and it'll make the password for you. 
+I've got a nifty program that can whip up a random password just for you. All you need to do is let me know how long you want your password to be and what ingredients you'd like to include. Do you want numbers, lowercase letters, uppercase letters, and maybe even some special characters in the mix? Just give me the details, and I'll handle the rest. Once I have all the info, I'll generate the perfect password according to your preferences and present it to you on a silver platter, or well, on your screen! So, let's create that super secure and unique password together!
